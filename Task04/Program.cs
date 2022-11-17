@@ -23,5 +23,5 @@ if (number3 > max)
 {
     max = number3;
 }
-else { }
+// else { } преподаватель сказал не нужен
 Console.WriteLine($"Максимальное число равно {max}");

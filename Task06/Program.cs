@@ -9,9 +9,9 @@ int number = Convert.ToInt32(Console.ReadLine());
 number = Math.Abs(number);
 if (number % 2 == 0)
 {
-    Console.WriteLine("Число чётное");
+    Console.WriteLine("Число чётное"); // "число является четным"
 }
 else
 {
-    Console.WriteLine("Число нечётное");
+    Console.WriteLine("Число нечётное"); // "число не является четным"
 }
